@@ -5,8 +5,8 @@ body {
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   align: center;
-  background-color: #ff0000;
-  color: white;
+  background-color: white;
+  color: black;
   width: 100%;
 }
 
@@ -101,6 +101,10 @@ a {
   text-align: center;
 }
 
+#wisc-det1 p, #wisc-det2 p, #perkins-det p {
+  text-align: right;
+}
+
 #herle-letter p {
   text-align: center;
 }
@@ -125,4 +129,8 @@ a {
   list-style-type: none;
   display: grid;
   grid-template-columns: max-content 40px auto;
+}
+
+div#end body {
+  background-color: black;
 }
