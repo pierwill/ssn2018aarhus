@@ -1,6 +1,25 @@
 :css: css/aarhus.css
 
 .. title: Predestination and Prediction: Reformation theology and state surveillance
+.. abstract: With the rise of predictive policing and data analysis
+   practices that seem to constrain and call into question free will,
+   this paper argues that the literature of a particular theological
+   struggle—predestination—uncovers otherwise hidden depths in the
+   histories of surveillance. With gestures toward post–9/11
+   surveillance, this paper argues that predestination underlies the
+   creation of one of the earliest cultures of modern state
+   surveillance: Elizabethan England. Following the Northern Rebellion
+   of 1569, calls for greater scrutiny of Catholics used religious
+   discourses of divine omniscience of predetermined futures
+   characteristic of the period. But the state religion on which the
+   Elizabethan regime rested had to confront the potentially
+   subversive paradoxes of predestination. Proceeding from how
+   Calvin’s theology of predestination creates new kinds of secret
+   subjects, I turn to texts that called for surveillance following
+   the 1569 rebellion. By examining the pre-secular Reformation
+   period, this paper argues that a religious genealogy of early
+   modern surveillance points to the ways twenty-first century
+   surveillance dreams of control through prediction.
 
 ----
 
@@ -23,6 +42,14 @@ Reformation theology and state surveillance
 
 ----
 
+.. note::
+
+   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, this paper argues that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance. With gestures toward post–9/11 surveillance, this paper argues that predestination underlies the creation of one of the earliest cultures of modern state surveillance: Elizabethan England. Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience of predetermined futures characteristic of the period. But the state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination. Proceeding from how Calvin’s theology of predestination creates new kinds of secret subjects, I turn to texts that called for surveillance following the 1569 rebellion. By examining the pre-secular Reformation period, this paper argues that a religious genealogy of early modern surveillance points to the ways twenty-first century surveillance dreams of control through prediction.
+
+   I'm going to begin with a contemporary visual example as a motivation. Then I'll dive into the history. I'll example an important document.
+
+----
+
 :id: questions
 
 .. QUESTIONS
@@ -30,13 +57,7 @@ Reformation theology and state surveillance
 - What are the ideological underpinnings of surveillance as prediction?
 - What is the role of theology in the history of surveillance?
 
-----
-
-.. note::
-
-   I'm going to begin with a contemporary visual example as a motivation. Then I'll dive into the history. I'll example an important document.
-
-----
+----  
 
 :id: timeline
 
@@ -129,6 +150,8 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 
 .. note::
 
+   Together these two images suggest that predestination is a good way of thinking through these problems today.
+   
    BEGIN[#1] WITH WILLIAM PERKINS AND WISCONSIN ALGORITHM.  A godlike view of time and a individual fate from above. Process or sequence?  What kind of structure Cause and effect? COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
 ----
@@ -136,7 +159,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 :data-x: r5000
 :data-y: r0
 
-.. note:: Note
+.. note:: BLANK
 
 ----
 
@@ -176,9 +199,7 @@ Image: Centre for Editing Lives and Letters, University College London.
 
 ----
 
-.. note::
-
-   TK
+.. note:: BLANK TK
 
 ----
 
@@ -192,7 +213,7 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
 
 ----
 
-.. note:: blank
+.. note:: BLANK TK
 
 ----
 
