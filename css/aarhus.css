@@ -123,10 +123,3 @@ div#wisc p, div#perkins p {
   display: grid;
   grid-template-columns: max-content 40px auto;
 }
-
-#lpl p {
-  margin-top: 100px;
-  height: 20px;
-  text-align: center;
-  color: white;
-}

@@ -1,5 +1,4 @@
 :css: css/aarhus.css
-:data-transition-duration: 700
 
 .. title: Predestination and Prediction: Reformation theology and state surveillance
 
@@ -60,12 +59,12 @@ Chronology
 - **1605**
 - ..
 - Gunpowder Plot (November 5)
-  
+
 ----
 
 :id: perkins
 :data-scale: 2
-     
+
 .. image:: img/chain.jpg
 	   :height: 750px
 
@@ -76,7 +75,7 @@ Chronology
 :id: perkins-det
 :data-x: r3000
 
-.. image:: img/chain-det.jpg
+.. image:: img/chain-det2.jpg
 	   :width: 1000px
 	   :align: center
 
@@ -91,11 +90,21 @@ Wisconsin Department of Corrections “Offender Life Cycle.” (Source: Julia An
 
 ----
 
+.. image:: img/wisc-det1.jpg
+	   :width: 1000px
+
+----
+
+.. image:: img/wisc-det2.jpg
+	   :width: 1000px
+		   
+----
+
 :id: both-img
-:data-x: r-1500
-:data-y: r3000
+:data-x: r-9000
+:data-y: r4000
 :data-scale: 4
-     
+
 .. image:: img/chain.jpg
 	   :width: 50%
 	   :height: 750px
@@ -107,14 +116,14 @@ Wisconsin Department of Corrections “Offender Life Cycle.” (Source: Julia An
 .. note::
 
    BEGIN[#1] WITH WILLIAM PERKINS AND WISCONSIN ALGORITHM.  A godlike view of time and a individual fate from above. Process or sequence?  What kind of structure Cause and effect? COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
-		    
+
 ----
 
 :id: herle-letter
 :data-x: r10000
 :data-y: r0
 :data-scale: 3
-     
+
 .. image:: img/herle.jpg
 	   :height: 750px
 
@@ -148,7 +157,7 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
 .. note:: Paper
 
    BEGIN[#1] WITH WILLIAM PERKINS AND WISCONSIN ALGORITHM.  A godlike view of time and a individual fate from above. Process or sequence?  What kind of structure Cause and effect? COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
-   
+
    I argue state surveillance BEGAN under a religious culture, our historically informed understandings and critiques should not try to reinvent the wheel, but rather use theology CATEGORIES to help understand the cultural and social complexities with less reduction to today’s technical methods.
 
    Predestination implied the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God. Today we’re seeing a different belief that information about a person can help predict and judge their future actions. Where does this faith that more information will reveal the future come from? From mathematics, pragmatics, politics? We take it for granted that the future is uncertain, but we no longer believe in a divine sovereignty over the future. With predestination we can look to the pre-secular past as a model for thinking about the emerging paradigms of knowledge and prediction in these times.
