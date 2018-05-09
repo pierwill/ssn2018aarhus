@@ -101,19 +101,6 @@ div#wisc p, div#perkins p {
   overflow: visible
 }
 
-#both-img img {
-  width: 30%;
-  overflow: visible
-  float: left;
-}
-
-#both-img img+img {
-  width: 30%;
-  overflow: visible
-  float: right;
-}
-
-
 #herle p {
   text-align: center;
 }
