@@ -16,9 +16,9 @@ Reformation theology and state surveillance
 - ..
 - William Pierce
 - ..
-- Northwestern University & Lucy Parsons Labs
+- Northwestern University
 - ..
-- ``mail@pierwill.com``
+- `mail@pierwill.com`
 
 ----
 
@@ -29,7 +29,10 @@ Reformation theology and state surveillance
 ----
 
 :id: timeline
-	     
+
+Chronology
+----------
+
 - **1517**
 - ..
 - Lutheran revolution
@@ -61,7 +64,8 @@ Reformation theology and state surveillance
 ----
 
 :id: perkins
-	 
+:data-scale: 2
+     
 .. image:: img/chain.jpg
 	   :height: 750px
 
@@ -70,6 +74,7 @@ Reformation theology and state surveillance
 ----
 
 :id: perkins-det
+:data-x: r3000
 
 .. image:: img/chain-det.jpg
 	   :width: 1000px
@@ -89,7 +94,7 @@ Wisconsin Department of Corrections “Offender Life Cycle.” (Source: Julia An
 :id: both-img
 :data-x: r-1500
 :data-y: r3000
-:data-scale: 3
+:data-scale: 4
      
 .. image:: img/chain.jpg
 	   :width: 50%
@@ -105,10 +110,10 @@ Wisconsin Department of Corrections “Offender Life Cycle.” (Source: Julia An
 		    
 ----
 
-:id: herle
+:id: herle-letter
 :data-x: r10000
 :data-y: r0
-:data-scale: 2
+:data-scale: 3
      
 .. image:: img/herle.jpg
 	   :height: 750px
@@ -116,6 +121,8 @@ Wisconsin Department of Corrections “Offender Life Cycle.” (Source: Julia An
 Letter by William Herle, 1571. (Source: Centre for Editing Lives and Letters, University College London.)
 
 ----
+
+:id: herle-fair
 
 .. image:: img/herle-fair.jpg
 	   :height: 750px
@@ -134,7 +141,7 @@ A letter by Herle in a fair copy by one of Burleigh’s secretaries. (Source: Ce
 
 ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
 
-- William Herle to Elizabeth I
+- Herle to Elizabeth I, October 1571
 
 ----
 
@@ -182,3 +189,12 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
 
      [fn:1] Lyon
 
+----
+
+..
+
+----
+
+:id: lpl
+
+.. image:: img/lpl-logo-color-black-bgWEB.png

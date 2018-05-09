@@ -11,6 +11,11 @@ body {
   width: 100%;
 }
 
+.step {
+  width: 1000px;
+  overflow: visible;
+}
+
 p {
   font-weight: normal;
   margin-bottom: 0.3em;
@@ -67,6 +72,10 @@ a {
   font-size: 50%;
 }
 
+#title.step {
+  width: 1000px;
+}
+
 #title ul {
   width: 100%;
   position: fixed;
@@ -91,18 +100,12 @@ div#wisc p, div#perkins p {
   text-align: center;
 }
 
-#perkins-det.step {
-  width: 1000px;
-  overflow: visible;
-}
-
-#both-img.step {
-  width: 1000px;
-  overflow: visible
-}
-
-#herle p {
+#herle-letter p {
   text-align: center;
+}
+
+#herle-exacte-book.step {
+  width: 900px;
 }
 
 #herle-exacte-book p {
@@ -119,4 +122,11 @@ div#wisc p, div#perkins p {
   list-style-type: none;
   display: grid;
   grid-template-columns: max-content 40px auto;
+}
+
+#lpl p {
+  margin-top: 100px;
+  height: 20px;
+  text-align: center;
+  color: white;
 }
