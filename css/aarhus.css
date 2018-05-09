@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
-/* @import url('http://fonts.googleapis.com/css?family=Open+Sans'); */
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700');
 
 body {
   font-size: 170%;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Source Serif Pro', sans-serif;
+  font-family: 'Source Serif Pro', serif;
   text-align: center;
-  background-color: black;
-  color: #1fff1f;
+  align: center;
+  background-color: white;
+  color: black;
   width: 100%;
 }
 
@@ -72,10 +71,6 @@ a {
   font-size: 50%;
 }
 
-#title.step {
-  width: 1000px;
-}
-
 #title ul {
   width: 100%;
   position: fixed;
@@ -96,7 +91,13 @@ a {
   padding: 0;
 }
 
-div#wisc p, div#perkins p {
+#perkins p+p, #herle-letter p+p, #herle-fair p+p {
+  font-size: smaller;
+/*   text-align: left; */
+  margin-left: 1em;
+}
+
+#wisc p, #perkins p {
   text-align: center;
 }
 
@@ -104,17 +105,19 @@ div#wisc p, div#perkins p {
   text-align: center;
 }
 
+#herle-fair p {
+  text-align: center;
+}
+
+#rainbow p {
+  text-align: center;
+}
 #herle-exacte-book.step {
   width: 900px;
 }
 
-#herle-exacte-book p {
-  color: white;
-}
-
 #herle-exacte-book ul {
   list-style-type: none;
-  color: white;
   float: right;
 }
 
