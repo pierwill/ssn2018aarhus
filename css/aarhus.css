@@ -1,73 +1,135 @@
-@font-face {
-    font-family: Palanquin;
-    src: url(https://fonts.googleapis.com/css?family=Palanquin);
-}
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+/* @import url('http://fonts.googleapis.com/css?family=Open+Sans'); */
 
 body {
-    font-size: 170%;
-    text-align: center;
-    background-color: black;
-    color: #1fff1f;
-    width: 100%;
+  font-size: 170%;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Serif Pro', sans-serif;
+  text-align: center;
+  background-color: black;
+  color: #1fff1f;
+  width: 100%;
 }
 
 p {
-    font-weight: normal;
-    margin-bottom: 0.3em;
-    margin-top: 0.3em;
-    text-align: left;
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  text-align: left;
 }
 
 pre {
-    text-align: left;
+  text-align: left;
 }
 
 h1, h2, h3, h4 {
-    font-weight: normal;
-    margin-bottom: 0.3em;
-    margin-top: 0.3em;
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
 }
 
 tt {
-    font-size: 125;
+  font-size: 125;
 }
 
 ul {
-    list-style-position: inside;
+  list-style-position: inside;
 }
 
 li {
-    font-family: serif;
-    font-weight: normal;
-    margin-bottom: 0.3em;
-    margin-top: 0.3em;
-    padding-left: 0.3em;
-    line-height: 1.8em;
-    text-align: left;
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  padding-left: 0.3em;
+  line-height: 1.8em;
+  text-align: left;
 }
 
 a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
 
 .header img {
-    opacity: 0.2;
-    width: 25%;
-    position: absolute;
-    left: 0;
+  opacity: 0.2;
+  width: 25%;
+  position: absolute;
+  left: 0;
 }
 
 .footer {
-    position: absolute;
-    top: 95%;
-    font-size: 50%;
+  position: absolute;
+  top: 95%;
+  font-size: 50%;
+}
+
+#title ul {
+  width: 100%;
+  position: fixed;
+  top: 170%;
+  right: 30px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 20  px;
+  text-align: right;
+}
+
+#title li {
+  display: list-item;
+  text-align: right;
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 div#wisc p, div#perkins p {
-    text-align: center;
+  text-align: center;
+}
+
+#perkins-det.step {
+  width: 1000px;
+  overflow: visible;
+}
+
+#both-img.step {
+  width: 1000px;
+  overflow: visible
+}
+
+#both-img img {
+  width: 30%;
+  overflow: visible
+  float: left;
+}
+
+#both-img img+img {
+  width: 30%;
+  overflow: visible
+  float: right;
+}
+
+
+#herle p {
+  text-align: center;
+}
+
+#herle-exacte-book p {
+  color: white;
+}
+
+#herle-exacte-book ul {
+  list-style-type: none;
+  color: white;
+  float: right;
+}
+
+#timeline ul, #timeline2 ul {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: max-content 40px auto;
 }
