@@ -20,7 +20,7 @@
    period, this paper argues that a religious genealogy of early
    modern surveillance points to the ways twenty-first century
    surveillance dreams of control through prediction.
-   
+
 ----
 
 :id: title
@@ -36,9 +36,7 @@ Reformation theology and state surveillance
 - ..
 - Northwestern University
 - ..
-- & Lucy Parsons Labs
-- ..
-- `mail@pierwill.com`
+- `wepierce@u.northwestern.edu`
 
 ----
 
@@ -52,20 +50,16 @@ Reformation theology and state surveillance
    - Then I'll dive into the history.
    - Last I'll look at a case study and a text (a spy story).
 
-   <1 minutes>
-
-.. note:: CALVIN AND SECRECY
+   ---
 
    Calvin wrote that predestination was secret: “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
 
    Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
 
-   <3 minutes>
-   
 ----
 
 :id: perkins
-	 
+
 .. image:: img/chain.jpg
 	   :height: 600px
 
@@ -77,8 +71,6 @@ Image: Folger Shakespeare Library.
 
    Perkins' image is BLAH.
 
-   <4 minutes>
-   
 ----
 
 :id: perkins-det
@@ -99,10 +91,10 @@ Image: Folger Shakespeare Library.
 
 :id: wisc
 :data-rotate-y: r-90
-:data-x: r1000
+:data-x: r1200
 :data-y: r0
-:data-z: r500
-   
+:data-z: r700
+
 .. image:: img/wisc.jpg
 	   :height: 600px
 
@@ -110,9 +102,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 
 .. note:: This document shows a different kind of predestination.
 
-	  "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.
-
-	  <5 minutes>
+	  (Some researchers today talk about "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.)
 
 ----
 
@@ -121,13 +111,11 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 :data-x: r0
 :data-y: r0
 :data-z: r2000
-		
+
 .. image:: img/wisc-det1.jpg
 	   :width: 1000px
 
 ``(detail)``
-
-.. note:: Ooh and aah
 
 ----
 
@@ -138,17 +126,15 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 
 ``(detail)``
 
-.. note:: Ooh and aah
-
 ----
 
 :id: both-img
-:data-scale: 4
-:data-x: r-3000
-:data-y: r0
-:data-z: r3000
+:data-scale: 2
+:data-x: 0
+:data-y: -2000
+:data-z: 0
 :data-rotate-y: r-90
-	 
+
 .. image:: img/chain.jpg
 	   :width: 50%
 	   :height: 750px
@@ -169,10 +155,6 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
    - What kind of structure Cause and effect?
    - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
-     <7 minutes>
-
-
-     
 ----
 
 :id: timeline
@@ -215,11 +197,11 @@ Chronology
 .. note:: Religious conflict and English politics
 
 	  <9 minutes>
-  
+
 ----
 
 :id: 1569
-	 
+
 .. note:: Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination.
 
 ----
@@ -244,7 +226,7 @@ Image: Centre for Editing Lives and Letters, University College London.
 
 ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
 
-- Herle to Elizabeth I, October 1571
+- William Herle to Elizabeth I, October 1571
 
 ..
 
@@ -254,7 +236,7 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
 
 ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every parte of your Reallme…… The which substancially **deciphred**, might appere from tyme to tyme, as a **certayn monument satisfieng every dowtt**… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly **bothe against God & their Soveraigne**.
 
-- Herle to Elizabeth I, October 1571
+- William Herle to Elizabeth I, October 1571
 
 ..
 
@@ -307,3 +289,9 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
    ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
 
    I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life—the persistent metaphor for predestination in biblical and religious literature.  (Maybe the Domesday Book as well, though I’m less sure about this.) Herle was a down-on-his-luck character, and his survey’s appearing “from time to time” is a canny bid for employment. More cannily, though, Herle’s program provides an answer to the challenges of Norton’s allegory. The Trojan Horse cannot be searched if it is fated to succeed. Providentia (providence) the scholastics tell us is a species of prudentia (prudence). But prudence demands that steps be taken to assuage doubt, whatever the fears; like Calvinist’s austere devotion.
+
+.. Local Variables:
+.. mode: rst
+.. eval: (smart-quotes-mode)
+.. eval: (smart-quotes-mode)
+.. End:
