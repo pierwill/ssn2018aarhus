@@ -120,7 +120,7 @@ a {
   width: 900px;
 }
 
-#herle-exacte-book ul {
+#herle-exacte-book ul, #herle-exacte-book-2 ul {
   list-style-type: none;
   float: right;
 }
@@ -131,6 +131,9 @@ a {
   grid-template-columns: max-content 40px auto;
 }
 
-div#end body {
+#what ul, #what.step {
   background-color: black;
+  width: 1600px;
+  height: 1600px;
+  
 }

@@ -20,7 +20,7 @@
    period, this paper argues that a religious genealogy of early
    modern surveillance points to the ways twenty-first century
    surveillance dreams of control through prediction.
-
+   
 ----
 
 :id: title
@@ -46,26 +46,26 @@ Reformation theology and state surveillance
 
    With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
 
-    The theology of predestination IS STRONGLY PRESENT AT the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
+   The theology of predestination IS STRONGLY PRESENT AT the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
 
    - I'll to begin with a visual example as a motivation.
    - Then I'll dive into the history.
    - Last I'll look at a case study and a text (a spy story).
 
-----
-
-:id: calvin-secrecy
+   <1 minutes>
 
 .. note:: CALVIN AND SECRECY
 
    Calvin wrote that predestination was secret: “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
 
-   Predestination implied the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
+   Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
 
+   <3 minutes>
+   
 ----
 
 :id: perkins
-
+	 
 .. image:: img/chain.jpg
 	   :height: 600px
 
@@ -73,6 +73,12 @@ Reformation theology and state surveillance
 
 Image: Folger Shakespeare Library.
 
+.. note::
+
+   Perkins' image is BLAH.
+
+   <4 minutes>
+   
 ----
 
 :id: perkins-det
@@ -82,25 +88,47 @@ Image: Folger Shakespeare Library.
 	   :align: center
 
 ``(detail)``
-		   
+
+.. note::
+
+   Notice how things eminate from the Trinity. The Trinity exists in eternity, outside of time.
+
+   Next, a surprising document:
+
 ----
 
 :id: wisc
-
+:data-rotate-y: r-90
+:data-x: r1000
+:data-y: r0
+:data-z: r500
+   
 .. image:: img/wisc.jpg
 	   :height: 600px
 
 Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Julia Angwin et al., “Machine Bias,” *ProPublica*, May 23, 2016.
 
+.. note:: This document shows a different kind of predestination.
+
+	  "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.
+
+	  <5 minutes>
+
 ----
 
 :id: wisc-det1
-
+:data-rotate-y: r0
+:data-x: r0
+:data-y: r0
+:data-z: r2000
+		
 .. image:: img/wisc-det1.jpg
 	   :width: 1000px
 
 ``(detail)``
-		   
+
+.. note:: Ooh and aah
+
 ----
 
 :id: wisc-det2
@@ -109,15 +137,18 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 	   :width: 1000px
 
 ``(detail)``
-	
+
+.. note:: Ooh and aah
+
 ----
 
-:data-scale: 3
-:data-x: r-7000
-:data-y: r2000
-
 :id: both-img
-
+:data-scale: 4
+:data-x: r-3000
+:data-y: r0
+:data-z: r3000
+:data-rotate-y: r-90
+	 
 .. image:: img/chain.jpg
 	   :width: 50%
 	   :height: 750px
@@ -128,6 +159,8 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 
 .. note::
 
+   (pause)
+
    Together these two images suggest that predestination is a good way of thinking through these problems today.
 
    A godlike view of time and a individual fate from above.
@@ -136,21 +169,20 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
    - What kind of structure Cause and effect?
    - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
-----
+     <7 minutes>
 
-:data-x: r5000
-:data-y: r0
 
-.. note:: BLANK
-
+     
 ----
 
 :id: timeline
+:data-x: r-8000
+:data-y: r0
+:data-z: r0
+:data-rotate-y: r0
 
 Chronology
 ==========
-
-.. note:: Religious conflict and English politics
 
 - **1517**
 - ..
@@ -180,18 +212,22 @@ Chronology
 - ..
 - Gunpowder Plot (November 5)
 
+.. note:: Religious conflict and English politics
+
+	  <9 minutes>
+  
 ----
 
 :id: 1569
-
+	 
 .. note:: Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination.
 
 ----
 
 :id: rainbow
 :data-scale: 3
-:data-x: r5000
-
+:data-x: r-2000
+	 
 .. image:: img/rainbow.jpg
 	   :height: 700px
 
@@ -201,7 +237,7 @@ The “Rainbow Porait,” attrib. Marcus Gheeraerts the Younger, circa 1600.
 
 :id: rainbow-det
 :data-scale: 2
-:data-x: r5000
+:data-x: r-8000
 
 .. image:: img/rainbow-det.jpg
 	   :width: 1000px
@@ -247,13 +283,21 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
 
 ----
 
+:id: herle-exacte-book-2
+
+ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every parte of your Reallme…… The which substancially **deciphred**, might appere from tyme to tyme, as a **certayn monument satisfieng every dowtt**… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly **bothe against God & their Soveraigne**.
+
+- Herle to Elizabeth I, October 1571
+
+..
+
+----
+
 .. note:: BLANK TK
 
 ----
 
-:id: lpl
-
-.. image:: img/lpl-logo-colorWEB-border.png
+.. note:: END
 
 ----
 
@@ -296,14 +340,3 @@ ytt asketh then (so plesing your highnes) an exacte booke, describeng every part
    ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
 
    I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life—the persistent metaphor for predestination in biblical and religious literature.  (Maybe the Domesday Book as well, though I’m less sure about this.) Herle was a down-on-his-luck character, and his survey’s appearing “from time to time” is a canny bid for employment. More cannily, though, Herle’s program provides an answer to the challenges of Norton’s allegory. The Trojan Horse cannot be searched if it is fated to succeed. Providentia (providence) the scholastics tell us is a species of prudentia (prudence). But prudence demands that steps be taken to assuage doubt, whatever the fears; like Calvinist’s austere devotion.
-
-
-----
-
-:id: end
-
-Sup
-
-----
-
-.. note:: blank
