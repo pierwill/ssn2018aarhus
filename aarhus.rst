@@ -293,5 +293,4 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 .. Local Variables:
 .. mode: rst
 .. eval: (smart-quotes-mode)
-.. eval: (smart-quotes-mode)
 .. End:
