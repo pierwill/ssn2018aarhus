@@ -224,26 +224,6 @@ Chronology
 
 ----
 
-:id: rainbow
-:data-scale: 3
-:data-x: r-2000
-	 
-.. image:: img/rainbow.jpg
-	   :height: 700px
-
-The “Rainbow Porait,” attrib. Marcus Gheeraerts the Younger, circa 1600.
-
-----
-
-:id: rainbow-det
-:data-scale: 2
-:data-x: r-8000
-
-.. image:: img/rainbow-det.jpg
-	   :width: 1000px
-
-----
-
 :id: herle-letter
 :data-scale: 1
 
@@ -251,19 +231,6 @@ The “Rainbow Porait,” attrib. Marcus Gheeraerts the Younger, circa 1600.
 	   :height: 600px
 
 Letter by William Herle, 1571.
-
-Image: Centre for Editing Lives and Letters, University College London.
-
-----
-
-:id: herle-fair
-:data-y: r1000
-:data-x: r0
-
-.. image:: img/herle-fair.jpg
-	   :height: 600px
-
-A letter by Herle in a fair copy by one of Burleigh’s secretaries.
 
 Image: Centre for Editing Lives and Letters, University College London.
 
