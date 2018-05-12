@@ -1,6 +1,7 @@
 :css: css/aarhus.css
 
 .. title: Predestination and Prediction: Reformation theology and state surveillance
+
 .. abstract: With the rise of predictive policing and data analysis
    practices that seem to constrain and call into question free will,
    this paper argues that the literature of a particular theological
@@ -21,6 +22,15 @@
    modern surveillance points to the ways twenty-first century
    surveillance dreams of control through prediction.
 
+----
+
+:id: rainbow
+	 
+.. image:: img/rainbow-det.jpg
+	   :height: 700px
+
+Detail from the “Rainbow Porait,” of Queen Elizabeth I, attrib. Marcus Gheeraerts the Younger, circa 1600.
+   
 ----
 
 :id: title
@@ -141,7 +151,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 :id: both-img
 :data-scale: 2
 :data-x: 0
-:data-y: -2000
+:data-y: 2000
 :data-z: 0
 :data-rotate-y: r-90
 
@@ -165,6 +175,8 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
    - What kind of structure Cause and effect?
    - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
+   This example is about mass incarceration. Further on I’ll be talking more in the context of predicting the future and avoiding risk in the rise of *national security surveillance states*.
+
 ----
 
 :id: timeline
@@ -181,33 +193,27 @@ Chronology
 - Lutheran revolution
 - **1534**
 - ..
-- Henry VIII named head of the Church of England
-- **1545–1563**
-- ..
-- Council of Trent begins the Counter-Reformation
+- Henry VIII named head of the Church of England (England becomes Protestant)
 - **1553–1558**
 - ..
-- Reign of Mary Tudor
+- Reign of Mary Tudor (England reverts to Catholicism)
 - **1558**
 - ..
-- Elizabeth I ascends
+- Elizabeth I ascends (England becomes Protestant again)
 - **1569**
 - ..
 - Northern Rebellion
+- **1580**
+- ..
+- English Jesuit college founded in Rome
 - **1588**
 - ..
 - Spanish Armada defeated
-- **1603**
-- ..
-- Elizabeth dies; coronation of James I
-- **1605**
-- ..
-- Gunpowder Plot (November 5)
 
-.. note:: Religious conflict and English politics
+.. note::
 
-	  <9 minutes>
-
+   TK
+  
 ----
 
 :id: 1569
@@ -234,25 +240,9 @@ Image: Centre for Editing Lives and Letters, University College London.
 
 :id: herle-exacte-book
 
-ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
-
-- William Herle to Elizabeth I, October 1571
-
-..
-
-----
-
-:id: herle-exacte-book-2
-
 ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every parte of your Reallme…… The which substancially **deciphred**, might appere from tyme to tyme, as a **certayn monument satisfieng every dowtt**… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly **bothe against God & their Soveraigne**.
 
 - William Herle to Elizabeth I, October 1571
-
-..
-
-----
-
-.. note:: BLANK TK
 
 ----
 

@@ -1,5 +1,5 @@
 main:
-	hovercraft aarhus.rst -p 8000
+	hovercraft -t template.cfg aarhus.rst -p 8000
 
 build:
-	hovercraft aarhus.rst .
+	hovercraft -t template.cfg aarhus.rst .
