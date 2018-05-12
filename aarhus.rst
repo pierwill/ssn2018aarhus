@@ -73,7 +73,17 @@ Image: Folger Shakespeare Library.
 
 ----
 
-:id: perkins-det
+:id: perkins-det1
+
+.. image:: img/chain-det1.jpg
+	   :width: 1000px
+	   :align: center
+
+``(detail)``
+
+----
+
+:id: perkins-det2
 
 .. image:: img/chain-det2.jpg
 	   :width: 1000px
