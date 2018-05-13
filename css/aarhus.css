@@ -1,18 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+.step {
+  width: 1000px;
+  overflow: visible;
+  position: absolute;
+}
 
 body {
   font-size: 170%;
   font-family: 'Source Serif Pro', serif;
   text-align: center;
-  align: center;
-  background-color: white;
-  color: black;
-  width: 100%;
-}
-
-.step {
-  width: 900px;
-  overflow: visible;
 }
 
 p {
@@ -22,18 +19,10 @@ p {
   text-align: left;
 }
 
-pre {
-  text-align: left;
-}
-
 h1, h2 {
   font-weight: normal;
   margin-bottom: 0.3em;
   margin-top: 0.3em;
-}
-
-tt {
-  font-size: 125;
 }
 
 ul {
@@ -54,26 +43,13 @@ a {
   color: black;
 }
 
-.hidden {
-  display: none;
-}
-
-.header img {
-  opacity: 0.2;
-  width: 25%;
-  position: absolute;
-  left: 0;
-}
-
-.footer {
-  position: absolute;
-  top: 95%;
-  font-size: 50%;
+#rainbow p {
+  font-size: smaller;
 }
 
 #rainbow img {
-  max-height: 700px;
-  width: auto;
+  width: 1000px;
+  display: inline-block;
 }
 
 #title ul {
@@ -98,7 +74,7 @@ a {
 
 #perkins p+p, #herle-letter p+p, #herle-fair p+p {
   font-size: smaller;
-/*   text-align: left; */
+  /*   text-align: left; */
   margin-left: 1em;
 }
 
@@ -121,9 +97,6 @@ a {
 #rainbow p {
   text-align: center;
 }
-#herle-exacte-book.step {
-  width: 900px;
-}
 
 #herle-exacte-book ul, #herle-exacte-book-2 ul {
   list-style-type: none;
@@ -134,11 +107,4 @@ a {
   list-style-type: none;
   display: grid;
   grid-template-columns: max-content 40px auto;
-}
-
-#what ul, #what.step {
-  background-color: black;
-  width: 1600px;
-  height: 1600px;
-  
 }

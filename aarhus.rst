@@ -19,7 +19,7 @@
    subjects, I turn to texts that called for surveillance following
    the 1569 rebellion. By examining the pre-secular Reformation
    period, this paper argues that a religious genealogy of early
-   modern surveillance points to the ways twenty-first century
+    modern surveillance points to the ways twenty-first century
    surveillance dreams of control through prediction.
 
 ----
@@ -27,7 +27,6 @@
 :id: rainbow
 	 
 .. image:: img/rainbow-det.jpg
-	   :height: 700px
 
 Detail from the “Rainbow Porait,” of Queen Elizabeth I, attrib. Marcus Gheeraerts the Younger, circa 1600.
    
@@ -49,6 +48,8 @@ Reformation theology and state surveillance
 - `wepierce@u.northwestern.edu`
 
 ----
+
+:id: intro
 
 .. note::
 
@@ -234,6 +235,8 @@ Image: Centre for Editing Lives and Letters, University College London.
 
 ----
 
+:id: blank
+
 .. note:: BLANK TK
 
 ----
@@ -245,6 +248,8 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 - William Herle to Elizabeth I, October 1571
 
 ----
+
+:id: end
 
 .. note:: END
 
