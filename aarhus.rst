@@ -25,11 +25,13 @@
 ----
 
 :id: rainbow
-	 
+
 .. image:: img/rainbow-det.jpg
 
-Detail from the “Rainbow Porait,” of Queen Elizabeth I, attrib. Marcus Gheeraerts the Younger, circa 1600.
-   
+Detail from the “Rainbow Porait,” of Queen Elizabeth I
+
+Marcus Gheeraerts the Younger (attrib.), circa 1600
+
 ----
 
 :id: title
@@ -207,14 +209,16 @@ Chronology
 - **1580**
 - ..
 - English Jesuit college founded in Rome
-- **1588**
-- ..
-- Spanish Armada defeated
+
+  ..
+   - **1588**
+   - ..
+   - Spanish Armada defeated
 
 .. note::
 
    TK
-  
+
 ----
 
 :id: 1569
