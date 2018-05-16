@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+.step {
+  width: 1000px;
+  overflow: visible;
+  position: absolute;
+}
+
+body {
+  font-size: 170%;
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+}
+
+p {
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  text-align: left;
+}
+
+h1, h2 {
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  padding-left: 0.3em;
+  line-height: 1.8em;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#rainbow p {
+  font-size: smaller;
+}
+
+#rainbow img {
+  width: 1000px;
+  display: inline-block;
+}
+
+#title ul {
+  width: 100%;
+  position: fixed;
+  top: 170%;
+  right: 30px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 20  px;
+  text-align: right;
+}
+
+#title li {
+  display: list-item;
+  text-align: right;
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#perkins p+p, #herle-letter p+p, #herle-fair p+p {
+  font-size: smaller;
+  /*   text-align: left; */
+  margin-left: 1em;
+}
+
+#wisc p, #perkins p {
+  text-align: center;
+}
+
+#wisc-det1 p, #wisc-det2 p, #perkins-det p {
+  text-align: right;
+}
+
+#herle-letter p {
+  text-align: center;
+}
+
+#herle-fair p {
+  text-align: center;
+}
+
+#rainbow p {
+  text-align: center;
+}
+
+#herle-exacte-book ul, #herle-exacte-book-2 ul {
+  list-style-type: none;
+  float: right;
+}
+
+#timeline ul, #timeline2 ul {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: max-content 40px auto;
+}

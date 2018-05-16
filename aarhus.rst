@@ -1,6 +1,7 @@
 :css: css/aarhus.css
 
-.. title: Predestination and Prediction: Reformation theology and state surveillance
+.. title: Predestination and Prediction: Reformation theology and
+   state surveillance
 
 .. abstract: With the rise of predictive policing and data analysis
    practices that seem to constrain and call into question free will,
@@ -19,7 +20,7 @@
    subjects, I turn to texts that called for surveillance following
    the 1569 rebellion. By examining the pre-secular Reformation
    period, this paper argues that a religious genealogy of early
-    modern surveillance points to the ways twenty-first century
+   modern surveillance points to the ways twenty-first century
    surveillance dreams of control through prediction.
 
 ----
@@ -55,6 +56,8 @@ Reformation theology and state surveillance
 
 .. note::
 
+   (This is a piece of a dissertation chapter.)
+
    With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
 
    The theology of predestination IS STRONGLY PRESENT AT the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
@@ -63,11 +66,17 @@ Reformation theology and state surveillance
    - Then I'll dive into the history.
    - Last I'll look at a case study and a text (a spy story).
 
-   ---
+   \------------------------------\
 
-   Calvin wrote that predestination was secret: “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
+   Some theology is necessary to begin.
 
-   Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
+   If I only tell you one thing about Predestination for the purposes of this analysis it will be that *Predestination is secret*. Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
+
+   It is totally opaque to mortals. But there has to be some sort of process.
+
+   Calvin calls is “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
+
+   The metaphor of the Book of Life is important here.
 
 ----
 
@@ -239,9 +248,9 @@ Image: Centre for Editing Lives and Letters, University College London.
 
 ----
 
-:id: blank
+:id: pre-herle
 
-.. note:: BLANK TK
+.. note:: William Herle background.
 
 ----
 
