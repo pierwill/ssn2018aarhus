@@ -70,6 +70,9 @@ Reformation theology and state surveillance
 
    The metaphor of the Book of Life is important here.
 
+   I’ll motivate my discussion of surveillance and prediction with two images. This is the first:
+
+
 ----
 
 :id: perkins
@@ -83,9 +86,8 @@ Image: Folger Shakespeare Library.
 
 .. note::
 
-   I’ll motivate my TALK with two images. This is the first.
 
-   It’s from around 1590, included in the theologian Protestant William Perkins’ book *The Golden Chain*. It’s a visual aid for understanding predestination.
+   This is from the theologian Protestant William Perkins’ book *The Golden Chain*. It’s a visual aid for understanding predestination.
 
 ----
 
