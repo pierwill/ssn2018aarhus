@@ -25,23 +25,11 @@
 
 ----
 
-:id: rainbow
-
-.. image:: img/rainbow-det.jpg
-
-Detail from the “Rainbow Porait,” of Queen Elizabeth I
-
-Marcus Gheeraerts the Younger (attrib.), circa 1600
-
-----
-
 :id: title
 
 Predestination and Prediction
-=============================
 
 Reformation theology and state surveillance
--------------------------------------------
 
 - ..
 - William Pierce
@@ -50,6 +38,12 @@ Reformation theology and state surveillance
 - ..
 - `wepierce@u.northwestern.edu`
 
+.. note::
+
+   Detail from the “Rainbow Porait,” of Queen Elizabeth I
+
+   Marcus Gheeraerts the Younger (attrib.), circa 1600
+  
 ----
 
 :id: intro
@@ -76,6 +70,8 @@ Reformation theology and state surveillance
 
    Calvin calls is “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
 
+   Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved. 
+   
    The metaphor of the Book of Life is important here.
 
 ----
@@ -266,17 +262,13 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
 .. note:: END
 
-----
-
-.. note::
-
    I argue state surveillance BEGAN under a religious culture, our historically informed understandings and critiques should not try to reinvent the wheel, but rather use theology CATEGORIES to help understand the cultural and social complexities with less reduction to today’s technical methods.
 
    Predestination implied the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
 
    Today we’re seeing a different belief that information about a person can help predict and judge their future actions. Where does this faith that more information will reveal the future come from? From mathematics, pragmatics, politics? We take it for granted that the future is uncertain, but we no longer believe in a divine sovereignty over the future. With predestination we can look to the pre-secular past as a model for thinking about the emerging paradigms of knowledge and prediction in these times.
 
-   Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved.
+
 
    Today’s surveillance practices like “predictive policing” operate as a kind of secular version of predestination. (David Lyon has written about panoptic surveillance as “secular omniscience.”)[fn:1] The watcher comes to “know” the (likely) future through data collection in the present, and this knowledge is transmuted into judgment. But concerns about the erosion of free will by secular omniscience look different when accepting predestination on faith, and paradoxically as threat and comfort. If we think in historically appropriate theological terms about predestination, we find a structure for thinking about the politics and discourses of knowledge and future in our own surveillance societies.
 
