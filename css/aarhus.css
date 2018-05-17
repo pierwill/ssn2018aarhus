@@ -91,6 +91,15 @@ div#title {
   padding: 0;
 }
 
+/* div#intro {
+  background-image: url("/img/rainbow-det.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: -webkit-fill-available;
+  position: fixed;
+}
+ */
+
 #perkins p+p, #herle-letter p+p, #herle-fair p+p {
   font-size: smaller;
   /*   text-align: left; */

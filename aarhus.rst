@@ -43,7 +43,7 @@ Reformation theology and state surveillance
    Detail from the “Rainbow Porait,” of Queen Elizabeth I
 
    Marcus Gheeraerts the Younger (attrib.), circa 1600
-  
+
 ----
 
 :id: intro
@@ -64,14 +64,10 @@ Reformation theology and state surveillance
 
    Some theology is necessary to begin.
 
-   If I only tell you one thing about Predestination for the purposes of this analysis it will be that *Predestination is secret*. Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
+   If I only tell you one thing about Predestination for the purposes of this analysis it will be that *Predestination is secret*.  Calvin calls is “an admirable secret of the judgement of God.” He wrote that Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God. It is totally opaque to mortals. But there has to be some sort of process. Inquiring into it was like pressing into God’s secret closet [room].
 
-   It is totally opaque to mortals. But there has to be some sort of process.
+   Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved.
 
-   Calvin calls is “an admirable secret of the judgement of God.” He wrote that inquiring into it was like pressing into God’s secret closet [room].
-
-   Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved. 
-   
    The metaphor of the Book of Life is important here.
 
 ----
@@ -87,7 +83,9 @@ Image: Folger Shakespeare Library.
 
 .. note::
 
-   Perkins' image is BLAH.
+   I’ll motivate my TALK with two images. This is the first.
+
+   It’s from around 1590, included in the theologian Protestant William Perkins’ book *The Golden Chain*. It’s a visual aid for understanding predestination.
 
 ----
 
@@ -98,6 +96,12 @@ Image: Folger Shakespeare Library.
 	   :align: center
 
 ``(detail)``
+
+.. note::
+
+   Notice how things eminate from the Trinity. The Trinity exists in eternity, outside of time.
+
+   Next, a surprising document:
 
 ----
 
@@ -111,9 +115,9 @@ Image: Folger Shakespeare Library.
 
 .. note::
 
-   Notice how things eminate from the Trinity. The Trinity exists in eternity, outside of time.
+   Things end back in eternity. Is this decision tree choice or the illusion of choice? What does it say about the internal workings of power on individuals?
 
-   Next, a surprising document:
+   Next, let’s look at an image from a more contemporary archive:
 
 ----
 
@@ -128,9 +132,11 @@ Image: Folger Shakespeare Library.
 
 Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Julia Angwin et al., “Machine Bias,” *ProPublica*, May 23, 2016.
 
-.. note:: This document shows a different kind of predestination.
+.. note::
 
-	  (Some researchers today talk about "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.)
+   This document shows a different kind of predestination. It’s from the Wisonsin Department of Corrections and shows an algorithmic process for PAROLE based on a PROPRIETARY SYSTEM by a private contractor.
+
+
 
 ----
 
@@ -204,7 +210,7 @@ Chronology
 - Henry VIII named head of the Church of England (England becomes Protestant)
 - **1553–1558**
 - ..
-- Reign of Mary Tudor (England reverts to Catholicism)
+- Reign of Mary Tudor (England is ruled by a Catholic)
 - **1558**
 - ..
 - Elizabeth I ascends (England becomes Protestant again)
@@ -215,20 +221,21 @@ Chronology
 - ..
 - English Jesuit college founded in Rome
 
-  ..
-   - **1588**
-   - ..
-   - Spanish Armada defeated
-
 .. note::
 
-   TK
+   Marian Rule saw persecution of Protestants.
 
 ----
 
 :id: 1569
+     
+.. note::
 
-.. note:: Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination.
+   In 1569, a large but short-lived rebellion by two Northern nobles became first large-scale test of the Elizabethan Settlement (wherein a compromise was made allowing Catholics to retain their old beliefs in exchange for hefty fines and loss of some privileges). Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.” But after the rebellion, official sermons (which were required listening) included a new homily against rebellion (featuring the verse from Ecclesiastes that Michael told us about.) After the Northern Rebellion predestination and providential futurity were deployed as intellectual weapons.
+
+   Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination.
+
+   SUMMARIZE NORTON IN TWO SENTENCES?
 
 ----
 
@@ -242,11 +249,15 @@ Letter by William Herle, 1571.
 
 Image: Centre for Editing Lives and Letters, University College London.
 
-----
+.. note::
 
-:id: pre-herle
+   In 1571 a little-known spy and sometime diplomat named William Herle wrote to Queen Elizabeth with an entrepreneurial proposal. (Has anyone here heard of William Herle?) He wanted to be put in charge of a “survey of strangers.” This might be the earliest known usage of the term “survey” in English to mean large-scale government information gathering on individuals—“surveillance” in the modern sense.
 
-.. note:: William Herle background.
+   The presence of foreigners and the international political situation (with Spain and the Netherlands, France) writes Herle, is dangerous: “presaigeng som mete fere to be had.” A lack of centralized information about foreigners and possible “underminers” leaves “the cheeff mistery unknowen.”
+
+   Herle’s language is not technically theological (nor would it be), but its underlying logic assumes a providential future to be known beforehand (presaged) and charged secrets (mystery) to be found out by a “survey.” It is the language of faithful, loving fear of the future. Herle emphasizes Elizabeth’s care for her subjects throughout his letter.
+
+   Herle proposes the creation of a register of all foreigners10, what their faith is, what they’re doing in England, etc. He says:
 
 ----
 
@@ -256,19 +267,24 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
 - William Herle to Elizabeth I, October 1571
 
+.. note::
+   
+   *ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.*
+
+   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life—the persistent metaphor for predestination in biblical and religious literature.  (Maybe the Domesday Book as well, though I’m less sure about this.) Herle was a down-on-his-luck character, and his survey’s appearing “from time to time” is a canny bid for employment. More cannily, though, Herle’s program provides an answer to the challenges of Norton’s allegory. The Trojan Horse cannot be searched if it is fated to succeed. Providentia (providence) the scholastics tell us is a species of prudentia (prudence). But prudence demands that steps be taken to assuage doubt, whatever the fears; like Calvinist’s austere devotion.
+
+
 ----
 
 :id: end
 
-.. note:: END
-
+.. note::
+   
    I argue state surveillance BEGAN under a religious culture, our historically informed understandings and critiques should not try to reinvent the wheel, but rather use theology CATEGORIES to help understand the cultural and social complexities with less reduction to today’s technical methods.
 
    Predestination implied the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God.
 
    Today we’re seeing a different belief that information about a person can help predict and judge their future actions. Where does this faith that more information will reveal the future come from? From mathematics, pragmatics, politics? We take it for granted that the future is uncertain, but we no longer believe in a divine sovereignty over the future. With predestination we can look to the pre-secular past as a model for thinking about the emerging paradigms of knowledge and prediction in these times.
-
-
 
    Today’s surveillance practices like “predictive policing” operate as a kind of secular version of predestination. (David Lyon has written about panoptic surveillance as “secular omniscience.”)[fn:1] The watcher comes to “know” the (likely) future through data collection in the present, and this knowledge is transmuted into judgment. But concerns about the erosion of free will by secular omniscience look different when accepting predestination on faith, and paradoxically as threat and comfort. If we think in historically appropriate theological terms about predestination, we find a structure for thinking about the politics and discourses of knowledge and future in our own surveillance societies.
 
@@ -288,17 +304,9 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    Importantly, belief in divine providence WAS SHARED between Catholic and Protestant.” Providence applies to both Protestants and Catholics, who both saw themselves as eventual victors in a cosmic struggle. (Also, it is important that predestination is not an exclusively Protestant invention. Augustine had written about it in the fifth century, and the Council of Trent reaffirmed the doctrine's truth in 1564. The difference lay in emphasis.)
 
-   In 1569, a large but short-lived rebellion by two Northern nobles became first large-scale test of the Elizabethan Settlement (wherein a compromise was made allowing Catholics to retain their old beliefs in exchange for hefty fines and loss of some privileges). Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.” But after the rebellion, official sermons (which were required listening) included a new homily against rebellion (featuring the verse from Ecclesiastes that Michael told us about.) After the Northern Rebellion predestination and providential futurity were deployed as intellectual weapons.
 
-   SUMMARIZE NORTON IN TWO SENTENCES
 
-   In 1571 a little-known spy and sometime diplomat named William Herle wrote to Queen Elizabeth with an entrepreneurial proposal. (Has anyone here heard of William Herle?) He wanted to be put in charge of a “survey of strangers.” (This might be the earliest known usage of the term “survey” in English to mean large-scale government information gathering on individuals—“surveillance” in the modern sense.) The presence of foreigners and the international political situation (with Spain and the Netherlands, France) writes Herle, is dangerous: “presaigeng som mete fere to be had.” A lack of centralized information about foreigners and possible “underminers” leaves “the cheeff mistery unknowen.” Herle’s language is not technically theological (nor would it be), but its underlying logic assumes a providential future to be known beforehand (presaged) and charged secrets (mystery) to be found out by a “survey.” It is the language of faithful, loving fear of the future. Herle emphasizes Elizabeth’s care for her subjects throughout his letter.
-
-   Herle proposes the creation of a register of all foreigners10, what their faith is, what they’re doing in England, etc. He says:
-
-   ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.
-
-   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life—the persistent metaphor for predestination in biblical and religious literature.  (Maybe the Domesday Book as well, though I’m less sure about this.) Herle was a down-on-his-luck character, and his survey’s appearing “from time to time” is a canny bid for employment. More cannily, though, Herle’s program provides an answer to the challenges of Norton’s allegory. The Trojan Horse cannot be searched if it is fated to succeed. Providentia (providence) the scholastics tell us is a species of prudentia (prudence). But prudence demands that steps be taken to assuage doubt, whatever the fears; like Calvinist’s austere devotion.
+	  (Some researchers today talk about "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.)
 
 .. Local Variables:
 .. mode: rst
