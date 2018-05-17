@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+/* @import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro'); */
 
 .step {
   width: 1000px;
@@ -8,7 +8,8 @@
 
 body {
   font-size: 170%;
-  font-family: 'Source Serif Pro', serif;
+/*   font-family: 'Source Serif Pro', serif; */
+  font-family: "Palatino", serif;
   text-align: center;
 }
 
@@ -82,7 +83,7 @@ a {
   text-align: center;
 }
 
-#wisc-det1 p, #wisc-det2 p, #perkins-det p {
+#wisc-det1 p, #wisc-det2 p, #perkins-det2, #perkins-det2 p {
   text-align: right;
 }
 
