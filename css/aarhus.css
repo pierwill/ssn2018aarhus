@@ -46,28 +46,35 @@ div#title {
   position: fixed;
 }
 
+#title p {
+  margin-top: .3em;
+  margin-bottom: .3em;
+}
+
 #title p, #title ul {
   color: white;
 }
 
 #title p:nth-of-type(1) {
   font-size: 54px;
-  margin-bottom: 0.3em;
-  margin-top: 0.3em;
-  text-align: center;
-  padding-top: 300px;
+  text-align: center !important;
+  position: absolute;
+  width: 100%;
+  top: 40%;
 }
 
 #title p:nth-of-type(2) {
   text-align: inherit;
-  margin: inherit;
+  width: inherit;
   font-size: 41px;
+  position: absolute;
+  top: 50%
 }
 
 #title ul {
   width: inherit;
-  position: fixed;
-  top: 500px;
+  position: absolute;
+  top: 70%;
   right: 30px;
   list-style-type: none;
   display: grid;
