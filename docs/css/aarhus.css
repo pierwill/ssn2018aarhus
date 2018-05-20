@@ -8,7 +8,7 @@
 
 body {
   font-size: 170%;
-/*   font-family: 'Source Serif Pro', serif; */
+  /*   font-family: 'Source Serif Pro', serif; */
   font-family: "Palatino", serif;
   text-align: center;
 }
@@ -18,12 +18,6 @@ p {
   margin-bottom: 0.3em;
   margin-top: 0.3em;
   text-align: left;
-}
-
-h1, h2 {
-  font-weight: normal;
-  margin-bottom: 0.3em;
-  margin-top: 0.3em;
 }
 
 ul {
@@ -44,19 +38,43 @@ a {
   color: black;
 }
 
-#rainbow p {
-  font-size: smaller;
+div#title {
+  background-image: url("/img/rainbow-det.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: -webkit-fill-available;
+  position: fixed;
 }
 
-#rainbow img {
-  width: 1000px;
-  display: inline-block;
+#title p {
+  margin-top: .3em;
+  margin-bottom: .3em;
+}
+
+#title p, #title ul {
+  color: white;
+}
+
+#title p:nth-of-type(1) {
+  font-size: 54px;
+  text-align: center !important;
+  position: absolute;
+  width: 100%;
+  top: 40%;
+}
+
+#title p:nth-of-type(2) {
+  text-align: inherit;
+  width: inherit;
+  font-size: 41px;
+  position: absolute;
+  top: 50%
 }
 
 #title ul {
-  width: 100%;
-  position: fixed;
-  top: 170%;
+  width: inherit;
+  position: absolute;
+  top: 70%;
   right: 30px;
   list-style-type: none;
   display: grid;
@@ -73,6 +91,15 @@ a {
   padding: 0;
 }
 
+/* div#intro {
+  background-image: url("/img/rainbow-det.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: -webkit-fill-available;
+  position: fixed;
+}
+ */
+
 #perkins p+p, #herle-letter p+p, #herle-fair p+p {
   font-size: smaller;
   /*   text-align: left; */
@@ -83,7 +110,7 @@ a {
   text-align: center;
 }
 
-#wisc-det1 p, #wisc-det2 p, #perkins-det2, #perkins-det2 p {
+#wisc-det1 p, #wisc-det2 p, #perkins-det1 p, #perkins-det2 p {
   text-align: right;
 }
 
@@ -92,10 +119,6 @@ a {
 }
 
 #herle-fair p {
-  text-align: center;
-}
-
-#rainbow p {
   text-align: center;
 }
 
