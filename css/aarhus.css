@@ -1,0 +1,135 @@
+/* @import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro'); */
+
+.step {
+  width: 1000px;
+  max-height: 800px;
+  overflow: visible;
+  position: absolute;
+}
+
+body {
+  font-size: 170%;
+  /*   font-family: 'Source Serif Pro', serif; */
+  font-family: "Palatino", serif;
+  text-align: center;
+}
+
+p {
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  text-align: left;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  font-weight: normal;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  padding-left: 0.3em;
+  line-height: 1.8em;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+div#title {
+  background-image: url("../img/rainbow-det.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: -webkit-fill-available;
+  position: fixed;
+}
+
+#title p {
+  margin-top: .3em;
+  margin-bottom: .3em;
+}
+
+#title p, #title ul {
+  color: white;
+}
+
+#title p:nth-of-type(1) {
+  font-size: 54px;
+  text-align: center !important;
+  position: absolute;
+  width: 100%;
+  top: 40%;
+}
+
+#title p:nth-of-type(2) {
+  text-align: inherit;
+  width: inherit;
+  font-size: 41px;
+  position: absolute;
+  top: 50%
+}
+
+#title ul {
+  width: inherit;
+  position: absolute;
+  top: 70%;
+  right: 30px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 20  px;
+  text-align: right;
+}
+
+#title li {
+  display: list-item;
+  text-align: right;
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* div#intro {
+  background-image: url("/img/rainbow-det.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: -webkit-fill-available;
+  position: fixed;
+}
+ */
+
+#perkins p+p, #herle-letter p+p, #herle-fair p+p {
+  font-size: smaller;
+  /*   text-align: left; */
+  margin-left: 1em;
+}
+
+#wisc p, #perkins p {
+  text-align: center;
+}
+
+#wisc-det1 p, #wisc-det2 p, #perkins-det1 p, #perkins-det2 p {
+  text-align: right;
+}
+
+#herle-letter p {
+  text-align: center;
+}
+
+#herle-fair p {
+  text-align: center;
+}
+
+#herle-exacte-book ul, #herle-exacte-book-2 ul {
+  list-style-type: none;
+  float: right;
+}
+
+#timeline ul, #timeline2 ul {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: max-content 40px auto;
+}
