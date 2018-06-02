@@ -112,6 +112,7 @@ div#title {
 }
 
 #wisc-det1 p, #wisc-det2 p, #perkins-det1 p, #perkins-det2 p {
+  font-size: 70%;
   text-align: right;
 }
 

@@ -40,16 +40,20 @@ Reformation theology and state surveillance
 
 .. note::
 
-   Detail from the “Rainbow Porait,” of Queen Elizabeth I
+   *Detail from the “Rainbow Porait,” of Queen Elizabeth I*
 
-   Marcus Gheeraerts the Younger (attrib.), circa 1600
+   *Marcus Gheeraerts the Younger (attrib.), circa 1600*
 
-   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
+   \-----\
 
    In her beautiful and important book *Carceral Capitalism*, Jackie Wang writes in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and scientific research, “big data” often aims to mitigate risk. More information equals a better prediction of the future. But as the Church of Scotland has recently written, “God does not gather information about us.”
+   
+   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
 
-   The theology of predestination IS STRONGLY PRESENT AT the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
+   The theology of predestination there at the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
 
+   Here’s what I’ll do in this presentation:
+   
    - I'll to begin with a visual example as a motivation.
    - Then I'll dive into the history.
    - Last I'll look at a case study and a text (a spy story).
