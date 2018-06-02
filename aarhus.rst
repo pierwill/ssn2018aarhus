@@ -44,9 +44,9 @@ Reformation theology and state surveillance
 
    Marcus Gheeraerts the Younger (attrib.), circa 1600
 
-   (This is a piece of a dissertation chapter.)
-
    With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
+
+   In her beautiful and important book *Carceral Capitalism*, Jackie Wang writes in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and scientific research, “big data” often aims to mitigate risk. More information equals a better prediction of the future. But as the Church of Scotland has recently written, “God does not gather information about us.”
 
    The theology of predestination IS STRONGLY PRESENT AT the creation of one of the earliest cultures of modern state surveillance: Elizabethan England.
 
@@ -62,9 +62,9 @@ Reformation theology and state surveillance
 
    Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved.
 
-   The metaphor of the Book of Life is important here.
+   In addition: An important metaphor to remember: Book of Life.
 
-   I’ll motivate my discussion of surveillance and prediction with two images. This is the first:
+   I’ll start with a visual example. This is the first:
 
 ----
 
@@ -75,7 +75,7 @@ Reformation theology and state surveillance
 
 “A ſurvey or Table declaring the order of the cauſes of ſalvation and damnation according to Gods word,” in William Perkins, *The Golden Chain* (London, 1592).
 
-Image: Folger Shakespeare Library.
+(Image: Folger Shakespeare Library)
 
 .. note::
 
@@ -90,7 +90,7 @@ Image: Folger Shakespeare Library.
 	   :width: 1000px
 	   :align: center
 
-``(detail)``
+(detail)
 
 .. note::
 
@@ -106,7 +106,7 @@ Image: Folger Shakespeare Library.
 	   :width: 1000px
 	   :align: center
 
-``(detail)``
+(detail)
 
 .. note::
 
@@ -125,13 +125,13 @@ Image: Folger Shakespeare Library.
 .. image:: img/wisc.jpg
 	   :height: 600px
 
-Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Julia Angwin et al., “Machine Bias,” *ProPublica*, May 23, 2016.
+Wisconsin Department of Corrections, “Offender Life Cycle.”
+
+(Image: published in Julia Angwin et al., “Machine Bias,” *ProPublica*, May 23, 2016.)
 
 .. note::
 
    This document shows a different kind of predestination. It’s from the Wisonsin Department of Corrections and shows an algorithmic process for PAROLE based on a PROPRIETARY SYSTEM by a private contractor.
-
-
 
 ----
 
@@ -144,7 +144,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 .. image:: img/wisc-det1.jpg
 	   :width: 1000px
 
-``(detail)``
+(detail)
 
 ----
 
@@ -153,7 +153,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.” Published in Jul
 .. image:: img/wisc-det2.jpg
 	   :width: 1000px
 
-``(detail)``
+(detail)
 
 ----
 
@@ -280,7 +280,7 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    Today’s surveillance practices like “predictive policing” operate as a kind of secular version of predestination. (David Lyon has written about panoptic surveillance as “secular omniscience.”)[fn:1] The watcher comes to “know” the (likely) future through data collection in the present, and this knowledge is transmuted into judgment. But concerns about the erosion of free will by secular omniscience look different when accepting predestination on faith, and paradoxically as threat and comfort. If we think in historically appropriate theological terms about predestination, we find a structure for thinking about the politics and discourses of knowledge and future in our own surveillance societies.
 
-   In her beautiful and important book Carceral Capitalism, Jackie Wang writes in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and scientific research, “big data” often aims to mitigate risk. More information equals a better prediction of the future. But as the Church of Scotland has recently written, “God does not gather information about us.”
+
 
    Three things about sixteenth-century England make it good for thinking about surveillance: 1) the assumption of divine omniscience meant that human secrecy could only be relative, 2) it is before the elaboration of bourgeois notions of privacy that can gum up our thinking, and 3) it is before the disciplinary mechanisms of the nineteenth century. This allows us to look elsewhere for surveillance—into the theological realm. In this world, theological concepts like predestination are necessary for talking about knowledge-over, knowing and judging secret intentions and futures.
 
@@ -292,13 +292,7 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    Divine surveillance—with all its paradoxes of jealous power and loving care—is the ideal and model of state surveillance in Elizabeth England. The monarch is the image of God, and should approximate omniscience in caring for her subjects, but of course can never attain it.  Still, just as all knowledge is an image of God’s knowledge, and all power an image of God’s power, all gathering of knowledge for power is an image of God’s knowledge as power.
 
-   Predestination is part of the broader concept of providence. Providence refers to God’s government of the world and history according to his divine plan. its the wider implications of predestination for a society of kingdom, or body politic, the larger course of history. God’s knowledge is eternal, both of individual fates and his providential plan for all of creation and all of history. So surveillance in Reformation England doesn’t take place to alter the course of history. That is already decided by God’s providence. Instead, it is done in furtherance of God’s plan, to know it better, and serve it.
-
-   Importantly, belief in divine providence WAS SHARED between Catholic and Protestant.” Providence applies to both Protestants and Catholics, who both saw themselves as eventual victors in a cosmic struggle. (Also, it is important that predestination is not an exclusively Protestant invention. Augustine had written about it in the fifth century, and the Council of Trent reaffirmed the doctrine's truth in 1564. The difference lay in emphasis.)
-
-
-
-	  (Some researchers today talk about "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.)
+   (Some researchers today talk about "Feedback loops": as if the whole thing didn't mirror *feedback loops* inherent in racist systems.)
 
 .. Local Variables:
 .. mode: rst

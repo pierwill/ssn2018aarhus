@@ -101,14 +101,14 @@ div#title {
 }
  */
 
-#perkins p+p, #herle-letter p+p, #herle-fair p+p {
-  font-size: smaller;
-  /*   text-align: left; */
-  margin-left: 1em;
-}
-
 #wisc p, #perkins p {
   text-align: center;
+}
+
+
+#perkins p+p, #herle-letter p+p {
+  font-size: 70%;
+  text-align: right;
 }
 
 #wisc-det1 p, #wisc-det2 p, #perkins-det1 p, #perkins-det2 p {
