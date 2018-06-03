@@ -105,10 +105,8 @@ div#title {
   text-align: center;
 }
 
-
-#perkins p+p, #herle-letter p+p {
+#perkins p+p, #herle-letter p+p, #wisc p+p {
   font-size: 70%;
-  text-align: right;
 }
 
 #wisc-det1 p, #wisc-det2 p, #perkins-det1 p, #perkins-det2 p {

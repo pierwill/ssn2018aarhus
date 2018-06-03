@@ -36,7 +36,7 @@ Reformation theology and state surveillance
 - ..
 - Northwestern University
 - ..
-- `wepierce@u.northwestern.edu`
+- `mail@pierwill.com`
 
 .. note::
 
@@ -46,7 +46,9 @@ Reformation theology and state surveillance
 
    \-----\
 
-   In her beautiful and important book *Carceral Capitalism*, Jackie Wang writes in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and scientific research, “big data” often aims to mitigate risk. More information equals a better prediction of the future. But as the Church of Scotland has recently written, “God does not gather information about us.”
+   In her beautiful and important book *Carceral Capitalism*, Jackie Wang writes in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and scientific research, “big data” surveillance oftens aims to mitigate risk. More information equals a better prediction of the future.
+
+   But as the `Church of Scotland`_ has recently written, “God does not gather information about us.” God is, however, omniscient.
    
    With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance.
 
@@ -60,9 +62,7 @@ Reformation theology and state surveillance
 
    \------------------------------\
 
-   Some theology is necessary to begin.
-
-   If I only tell you one thing about Predestination for the purposes of this analysis it will be that *Predestination is secret*.  Calvin calls is “an admirable secret of the judgement of God.” He wrote that Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God. It is totally opaque to mortals. But there has to be some sort of process. Inquiring into it was like pressing into God’s secret closet [room].
+   If I only tell you one thing about Predestination *Predestination is secret*. John Calvin calls is “an admirable secret of the judgement of God.” He wrote that Predestination implies the existence of information that could infallibly predict a persons future.  That information is secret and accessible only to God. It is totally opaque to mortals. But there has to be some sort of process. Inquiring into it was like pressing into God’s secret closet [room].
 
    Predestination is an important paradigm of knowledge from above judging and determining an individual’s future; because for God, to know and to do are the same thing. Predestination follows from God’s omniscience: if God knows everything, he knows all of eternity, so he knows and has already chosen those who will be saved.
 
@@ -100,8 +100,6 @@ Reformation theology and state surveillance
 
    Notice how things eminate from the Trinity. The Trinity exists in eternity, outside of time.
 
-   Next, a surprising document:
-
 ----
 
 :id: perkins-det2
@@ -114,7 +112,9 @@ Reformation theology and state surveillance
 
 .. note::
 
-   Things end back in eternity. Is this decision tree choice or the illusion of choice? What does it say about the internal workings of power on individuals?
+   Things end back in eternity.
+
+   Is this decision tree choice or the illusion of choice? What does it say about the internal workings of power on individuals?
 
    Next, let’s look at an image from a more contemporary archive:
 
@@ -149,6 +149,12 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 	   :width: 1000px
 
 (detail)
+
+.. note::
+
+   Arrest, Charges, Determination of Guilt:
+
+   Only the first three boxes here (its own kind of holy trinity) exist in what we’d call due process. But the graph presumes guilt retrospectively and prospectively.
 
 ----
 
@@ -213,18 +219,7 @@ Chronology
 - **1569**
 - ..
 - Northern Rebellion
-- **1580**
-- ..
-- English Jesuit college founded in Rome
 
-.. note::
-
-   Marian Rule saw persecution of Protestants.
-
-----
-
-:id: 1569
-     
 .. note::
 
    In 1569, a large but short-lived rebellion by two Northern nobles became first large-scale test of the Elizabethan Settlement (wherein a compromise was made allowing Catholics to retain their old beliefs in exchange for hefty fines and loss of some privileges). Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.” But after the rebellion, official sermons (which were required listening) included a new homily against rebellion (featuring the verse from Ecclesiastes that Michael told us about.) After the Northern Rebellion predestination and providential futurity were deployed as intellectual weapons.
@@ -302,3 +297,5 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 .. mode: rst
 .. eval: (smart-quotes-mode)
 .. End:
+
+.. _`Church of Scotland`: http://www.srtp.org.uk/assets/uploads/Surveillance_and_Social_Justice_FINAL.pdf
