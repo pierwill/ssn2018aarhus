@@ -203,9 +203,11 @@ Chronology
 
    In 1569, a large but short-lived rebellion by Catholic nobles became the first large-scale test of the Elizabethan Settlement. The comprimise had allowed Catholics to retain their old beliefs in exchange for a regime of fines and loss of privileges. Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.”
 
-   Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination and providence. God had doomed the rebellion; God was Protestant. But the future was secret: the next rebellion could succeed.
+   Following the Northern Rebellion, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future.
 
    Official sermons (which were required listening) now included a sermon against rebellion, reminding listeners that Queen Elizabeth was appointed by God, and quotes Ecclesiastes: “Curse not the king, no not in thy thought... for the [birds] of the heaven shall carry the voice.”
+
+   The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination and providence. God had doomed the rebellion, proving God was Protestant. But the future was secret: the next rebellion could succeed.
 
    Elizabeth forbid preaching about predestination.
 
