@@ -46,15 +46,13 @@ Reformation theology and state surveillance
 
    \-----\
 
-   In her book *Carceral Capitalism*, Jackie Wang writes that in our racialized security states, “uncertainty is presented as an information problem.” Inherited from both finance capitalism and techno-scientific research, “big data” surveillance oftens aims to mitigate risk from an unknown future. More information equals a better prediction of the future.
+   In her book *Carceral Capitalism*, Jackie Wang writes that in our racialized security states, “uncertainty is presented as an information problem.” Surveillance today oftens aims to mitigate the risks of an *unknown* future. More information equals a better prediction of the future.
 
-   The `Church of Scotland`_ has recently written, “God does not gather information about us.” God is, however, omniscient. So: what if we take seriously the (historical) idea of omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently seen theologically, in light of the history of religion?
+   But: what if we take seriously the (historical) idea of divine omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently seen theologically, in light of the history of religion? The `Church of Scotland`_ has recently written, “God does not gather information about us.”
 
-   One particular theological struggle---Predestination---has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: Elizabethan England.
+   God is, however, omniscient. Predestination is a consequence of God’s omniscience. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing. Predestination has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: 16th century, Elizabethan England.
 
-   Predestination is a consequence of God’s omniscience. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing.
-
-   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a —predestination—uncovers otherwise hidden depths in the histories of surveillance.
+   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a predestination
 
    Here’s what I’ll do in this presentation:
 
@@ -64,11 +62,7 @@ Reformation theology and state surveillance
 
    \------------------------------\
 
-   If I only tell you one thing about Predestination for what follows it’s this: *Predestination is secret*. John Calvin calls it is “an admirable secret of the judgement of God.”
-
-   He wrote that Predestination implies the existence of information that could infallibly predict a persons future. That information is secret and accessible only to God. It is totally opaque to mortals. But there has to be some sort of process. Inquiring into it was like pressing into God’s secret closet [room].
-
-   In addition: An important metaphor to remember: Book of Life.
+   *Predestination is secret*. John Calvin calls it is “an admirable secret of the judgement of God.” Predestination means the real existence of secret knowledge, accessible only to God. It is totally opaque to mortals. You can see how this might be threatening to sovereign power: even the most dastardly rebel cannot be proven not be one of the elect.
 
    I’ll start with a visual example. This is the first:
 
@@ -88,6 +82,10 @@ Reformation theology and state surveillance
 
    This is from the theologian Protestant William Perkins’ book *The Golden Chain*. It’s a visual aid for understanding predestination.
 
+   (It’s all clear right? LOL)
+
+   It begins in eternity with the Trinity, follows the different paths a soul can take, and ends back in eternity after the Last Judgement.
+
 ----
 
 :id: perkins-det1
@@ -100,7 +98,9 @@ Reformation theology and state surveillance
 
 .. note::
 
-   Notice how things eminate from the Trinity. The Trinity exists in eternity, outside of time.
+   Predestination happens before creation, outside of time.
+
+   It follows “God’s foreknowledge.”
 
 ----
 
@@ -113,10 +113,6 @@ Reformation theology and state surveillance
 (detail)
 
 .. note::
-
-   Things end back in eternity.
-
-   Is this decision tree choice or the illusion of choice? What does it say about the internal workings of power on individuals?
 
    Next, let’s look at an image from a more contemporary archive:
 
@@ -138,6 +134,8 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 .. note::
 
    This document shows a different kind of predestination. It’s from the Wisonsin Department of Corrections and shows an algorithmic process for PAROLE based on a PROPRIETARY SYSTEM by a private contractor.
+
+   “Offender Life Cycle” even suggests a Godlike view of and power over one’s entire life.
 
 ----
 
@@ -188,15 +186,15 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 
    (pause)
 
-   Together these two images suggest that predestination is a good way of thinking through these problems today.
+   Together these two images suggest that predestination is a good way of thinking through problems today: does surveillance measure or cause? How is information translated into knowledge? How is knowledge translated into power? 
 
-   A godlike view of time and a individual fate from above.
+   ..
+      - Process or sequence?
+      - What kind of structure of Cause and effect?
 
-   - Process or sequence?
-   - What kind of structure Cause and effect?
    - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
-   This example is about mass incarceration. Further on I’ll be talking more in the context of predicting the future and avoiding risk in the rise of *national security surveillance states*.
+   (This visual example is about mass incarceration, but I think this can be generalized to *national security surveillance states* and other kinds.)
 
 ----
 
@@ -224,11 +222,15 @@ Chronology
 
 .. note::
 
-   In 1569, a large but short-lived rebellion by two Northern nobles became first large-scale test of the Elizabethan Settlement (wherein a compromise was made allowing Catholics to retain their old beliefs in exchange for hefty fines and loss of some privileges). Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.” But after the rebellion, official sermons (which were required listening) included a new homily against rebellion (featuring the verse from Ecclesiastes that Michael told us about.) After the Northern Rebellion predestination and providential futurity were deployed as intellectual weapons.
+   In 1569, a large but short-lived rebellion by Catholic nobles became the first large-scale test of the Elizabethan Settlement. The comprimise had allowed Catholics to retain their old beliefs in exchange for a regime of fines and loss of privileges. Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.”
 
-   Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination.
+   Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future. The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination and providence. God had doomed the rebellion; God was Protestant. But the future was secret: the next rebellion could succeed.
 
-   SUMMARIZE NORTON IN TWO SENTENCES?
+   Official sermons (which were required listening) now included a sermon against rebellion, reminding listeners that Queen Elizabeth was appointed by God, and quotes Ecclesiastes: “Curse not the king, no not in thy thought... for the [birds] of the heaven shall carry the voice.”
+
+   Elizabeth forbid preaching about predestination.
+
+   How to secure the future if God has determined it?
 
 ----
 
@@ -266,14 +268,14 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    *ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.*
 
-   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life—the persistent metaphor for predestination in biblical and religious literature.
-
-   ..
-      (Maybe the Domesday Book as well, though I’m less sure about this.) Herle was a down-on-his-luck character, and his survey’s appearing “from time to time” is a canny bid for employment. More cannily, though, Herle’s program provides an answer to the challenges of Norton’s allegory. The Trojan Horse cannot be searched if it is fated to succeed. Providentia (providence) the scholastics tell us is a species of prudentia (prudence). But prudence demands that steps be taken to assuage doubt, whatever the fears; like Calvinist’s austere devotion.
+   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADBLE.
 
 ----
 
 :id: end
+
+.. note:: Blank
+
 .. Local Variables:
 .. mode: rst
 .. eval: (smart-quotes-mode)
