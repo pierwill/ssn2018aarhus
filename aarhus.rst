@@ -1,27 +1,8 @@
 :css: css/aarhus.css
 
-.. title: Predestination and Prediction: Reformation theology and
-   state surveillance
+.. title: Predestination and Prediction: Reformation theology and state surveillance
 
-.. abstract: With the rise of predictive policing and data analysis
-   practices that seem to constrain and call into question free will,
-   this paper argues that the literature of a particular theological
-   struggle—predestination—uncovers otherwise hidden depths in the
-   histories of surveillance. With gestures toward post–9/11
-   surveillance, this paper argues that predestination underlies the
-   creation of one of the earliest cultures of modern state
-   surveillance: Elizabethan England. Following the Northern Rebellion
-   of 1569, calls for greater scrutiny of Catholics used religious
-   discourses of divine omniscience of predetermined futures
-   characteristic of the period. But the state religion on which the
-   Elizabethan regime rested had to confront the potentially
-   subversive paradoxes of predestination. Proceeding from how
-   Calvin’s theology of predestination creates new kinds of secret
-   subjects, I turn to texts that called for surveillance following
-   the 1569 rebellion. By examining the pre-secular Reformation
-   period, this paper argues that a religious genealogy of early
-   modern surveillance points to the ways twenty-first century
-   surveillance dreams of control through prediction.
+.. abstract: With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, this paper argues that the literature of a particular theological struggle—predestination—uncovers otherwise hidden depths in the histories of surveillance. With gestures toward post–9/11 surveillance, this paper argues that predestination underlies the creation of one of the earliest cultures of modern state surveillance: Elizabethan England. Following the Northern Rebellion of 1569, calls for greater scrutiny of Catholics used religious discourses of divine omniscience of predetermined futures characteristic of the period. But the state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination. Proceeding from how Calvin’s theology of predestination creates new kinds of secret subjects, I turn to texts that called for surveillance following the 1569 rebellion. By examining the pre-secular Reformation period, this paper argues that a religious genealogy of early modern surveillance points to the ways twenty-first century surveillance dreams of control through prediction.
 
 ----
 
@@ -60,7 +41,7 @@ Reformation theology and state surveillance
 
    - I'll to begin with a visual motivation
    - Then I'll dive into some history
-   - and finally at a case study and a text (I am after all a, supposedly, literary scholar).
+   - and finally look quickly at a case study and a text
 
    \------------------------------\
 
@@ -71,7 +52,7 @@ Reformation theology and state surveillance
 :id: perkins
 
 .. image:: img/chain.jpg
-	   :height: 680px
+	   :height: 650px
 
 “A ſurvey or Table declaring the order of the cauſes of ſalvation and damnation according to Gods word,” in William Perkins, *The Golden Chain* (London, 1592).
 
@@ -125,7 +106,7 @@ Reformation theology and state surveillance
 :data-z: r700
 
 .. image:: img/wisc.jpg
-	   :height: 680px
+	   :height: 650px
 
 Wisconsin Department of Corrections, “Offender Life Cycle.”
 
@@ -258,15 +239,15 @@ Letter by William Herle, 1571.
 
 :id: herle-exacte-book
 
-ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every parte of your Reallme…… The which substancially **deciphred**, might appere from tyme to tyme, as a **certayn monument satisfieng every dowtt**… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly **bothe against God & their Soveraigne**.
+ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every parte of your Reallme… The which substancially **deciphred**, might appere from tyme to tyme, as a **certayn monument satisfieng every dowtt**… it were a grett assuranc to the state. […] Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly **bothe against God & their Soveraigne**.
 
 - William Herle to Elizabeth I, October 1571
 
 .. note::
 
-   *ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.*
+   *ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… it were a grett assuranc to the state. […] Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.*
 
-   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADABLE.
+   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADABLE. So Herle suggests that the state approximate this unreachable omniscience.
 
 ----
 
