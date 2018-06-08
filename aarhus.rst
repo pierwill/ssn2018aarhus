@@ -48,11 +48,11 @@ Reformation theology and state surveillance
 
    In her book *Carceral Capitalism*, Jackie Wang writes that in our racialized security states, “uncertainty is presented as an information problem.” Surveillance today oftens aims to mitigate the risks of an *unknown* future. More information equals a better prediction of the future.
 
-   But: what if we take seriously the (historical) idea of divine omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently seen theologically, in light of the history of religion? The `Church of Scotland`_ has recently written, “God does not gather information about us.”
+   Consider, though, the (historical) idea of divine omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently with theology and in light of the history of religion? A 2017 report on surveillance by `Church of Scotland`_ (with input from Eric Stoddart) says “God does not gather information about us.”
 
-   God is, however, omniscient. Predestination is a consequence of God’s omniscience. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing. Predestination has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: 16th century, Elizabethan England.
+   God is, however, omniscient. One consequence of God’s omniscience is Predestination. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing. Predestination has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: 16th century, Elizabethan England.
 
-   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of a predestination
+   With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of predestination the working of surveillance today that aspires almost to “secular omniscience” (a phrase of D. Lyon’s).
 
    Here’s what I’ll do in this presentation:
 
@@ -62,7 +62,7 @@ Reformation theology and state surveillance
 
    \------------------------------\
 
-   *Predestination is secret*. John Calvin calls it is “an admirable secret of the judgement of God.” Predestination means the real existence of secret knowledge, accessible only to God. It is totally opaque to mortals. You can see how this might be threatening to sovereign power: even the most dastardly rebel cannot be proven not be one of the elect.
+   Another word about Predestination: *Predestination is secret*. John Calvin calls it is “an admirable secret of the judgement of God.” Predestination means the real existence of secret knowledge, accessible only to God. It is totally opaque to mortals. You can see how this might be threatening to sovereign power: even the most dastardly rebel cannot be proven not be one of the elect.
 
    I’ll start with a visual example. This is the first:
 
@@ -71,7 +71,7 @@ Reformation theology and state surveillance
 :id: perkins
 
 .. image:: img/chain.jpg
-	   :height: 600px
+	   :height: 720px
 
 “A ſurvey or Table declaring the order of the cauſes of ſalvation and damnation according to Gods word,” in William Perkins, *The Golden Chain* (London, 1592).
 
@@ -125,7 +125,7 @@ Reformation theology and state surveillance
 :data-z: r700
 
 .. image:: img/wisc.jpg
-	   :height: 600px
+	   :height: 720px
 
 Wisconsin Department of Corrections, “Offender Life Cycle.”
 
@@ -135,7 +135,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 
    This document shows a different kind of predestination. It’s from the Wisonsin Department of Corrections and shows an algorithmic process for PAROLE based on a PROPRIETARY SYSTEM by a private contractor.
 
-   “Offender Life Cycle” even suggests a Godlike view of and power over one’s entire life.
+   “Offender Life Cycle: future outlook”: It even suggests a Godlike view of and power over one’s entire life. You see how easily the language of measurement and prediction bleeds into determination?
 
 ----
 
@@ -194,7 +194,7 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 
    - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
 
-   (This visual example is about mass incarceration, but I think this can be generalized to *national security surveillance states* and other kinds.)
+   (This visual example is about mass incarceration of black and brown people in the US, but I think the idea can be generalized to *national security surveillance states* and other kinds of surveillance.)
 
 ----
 
