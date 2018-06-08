@@ -19,13 +19,10 @@ Reformation theology and state surveillance
 - ..
 - `mail@pierwill.com`
 
+
 .. note::
 
-   *Detail from the “Rainbow Porait,” of Queen Elizabeth I*
-
-   *Marcus Gheeraerts the Younger (attrib.), circa 1600*
-
-   \-----\
+   [Detail from the “Rainbow Porait” of Queen Elizabeth I, c1600]
 
    In her book *Carceral Capitalism*, Jackie Wang writes that in our racialized security states, “uncertainty is presented as an information problem.” Surveillance today oftens aims to mitigate the risks of an *unknown* future. More information equals a better prediction of the future.
 
@@ -167,11 +164,9 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 
    (pause)
 
-   COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity, with a very similar structure.
-
    Together these two images suggest that predestination might be a good way of thinking through problems today: does surveillance measure or cause? How is information translated into knowledge? How is knowledge translated into power? Where are choices made, if any?
 
-   (This visual example is about mass incarceration of black and brown people in the US, but I think the idea can be generalized to *national security surveillance states* and other kinds of surveillance.)
+   (This visual example is about mass incarceration of black and brown people in the US, but I think the idea can be generalized to other kinds of surveillance.)
 
 ----
 
@@ -189,10 +184,13 @@ Chronology
 - Lutheran revolution
 - **1534**
 - ..
-- Henry VIII becomes head of the Church of England (England becomes Protestant)
+- England becomes Protestant (Henry VIII becomes head of the Church of England)
+- **1553–1558**
+- ..
+- England becomes Catholic again (reign of Mary Tudor, known by Protestants as “Bloody Mary”)
 - **1558**
 - ..
-- Elizabeth I crowned
+- Protestantism re-established (Elizabeth I crowned)
 - **1569**
 - ..
 - Northern Rebellion
@@ -201,17 +199,17 @@ Chronology
 
    [run through timeline]
 
-   In 1569, a large but short-lived rebellion by Catholic nobles became the first large-scale test of the Elizabethan Settlement. The comprimise had allowed Catholics to retain their old beliefs in exchange for a regime of fines and loss of privileges. Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.”
+   In 1569, a large but short-lived rebellion by Catholic nobles became the first large-scale test of the Elizabethan Settlement. The comprimise had allowed Catholics to retain their old beliefs in exchange for monetary fines and loss of privileges. Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.”
 
-   Following the Northern Rebellion, calls for greater scrutiny of Catholics used religious discourses of divine omniscience and providential future.
+   Following the Northern Rebellion, calls for greater scrutiny of Catholics used the religious discourses of divine omniscience and providential future.
 
-   Official sermons (which were required listening) now included a sermon against rebellion, reminding listeners that Queen Elizabeth was appointed by God, and quotes Ecclesiastes: “Curse not the king, no not in thy thought... for the [birds] of the heaven shall carry the voice.”
+   A sermon “Against Rebellion” was added to the official sermons (which were required listening). It reminded listeners that Queen Elizabeth was appointed by God, and quoted Ecclesiastes: “Curse not the king, no not in thy thought... for the [birds] of heaven shall carry the voice.”
 
-   The state religion on which the Elizabethan regime rested had to confront the potentially subversive paradoxes of predestination and providence. God had doomed the rebellion, proving God was Protestant. But the future was secret: the next rebellion could succeed.
+   But the Elizabethan government had to confront a problem in the state religion. The potentially subversive paradoxes of predestination and providence. God had doomed the rebellion, proving God was Protestant. But the future was secret: the next rebellion could succeed.
 
-   Elizabeth forbid preaching about predestination.
+   Elizabeth banned preaching about predestination.
 
-   How to secure the future if God has determined it?
+   So: How to secure the future if God has determined it?
 
 ----
 
