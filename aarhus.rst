@@ -48,30 +48,30 @@ Reformation theology and state surveillance
 
    In her book *Carceral Capitalism*, Jackie Wang writes that in our racialized security states, “uncertainty is presented as an information problem.” Surveillance today oftens aims to mitigate the risks of an *unknown* future. More information equals a better prediction of the future.
 
-   Consider, though, the (historical) idea of divine omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently with theology and in light of the history of religion? A 2017 report on surveillance by `Church of Scotland`_ (with input from Eric Stoddart) says “God does not gather information about us.”
+   Consider, though, the (historical) idea of divine omniscience, where the future is already known---but not to us. How might predictive state surveillance look differently with theology and in light of the history of religion?
 
-   God is, however, omniscient. One consequence of God’s omniscience is Predestination. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing. Predestination has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: 16th century, Elizabethan England.
+   A 2017 report on surveillance by `Church of Scotland`_ (with input from Eric Stoddart) says “God does not gather information about us.” God is, however, omniscient.
+
+   One consequence of God’s omniscience is Predestination. He knows everything, so he knows each person’s fate: to heaven or to hell. It is the ultimate instance of knowledge from above determining an individual’s future. Because for God, to know and to do are the same thing. Predestination has an important place in the dominant ideology of one of the earliest cultures of modern state surveillance: 16th century, Elizabethan England.
 
    With the rise of predictive policing and data analysis practices that seem to constrain and call into question free will, I argue that the literature of predestination the working of surveillance today that aspires almost to “secular omniscience” (a phrase of D. Lyon’s).
 
    Here’s what I’ll do in this presentation:
 
-   - I'll to begin with a visual example as a motivation.
-   - Then I'll dive into the history.
-   - I'll look at a case study and a text.
+   - I'll to begin with a visual motivation
+   - Then I'll dive into some history
+   - and finally at a case study and a text (I am after all a, supposedly, literary scholar).
 
    \------------------------------\
 
    Another word about Predestination: *Predestination is secret*. John Calvin calls it is “an admirable secret of the judgement of God.” Predestination means the real existence of secret knowledge, accessible only to God. It is totally opaque to mortals. You can see how this might be threatening to sovereign power: even the most dastardly rebel cannot be proven not be one of the elect.
-
-   I’ll start with a visual example. This is the first:
 
 ----
 
 :id: perkins
 
 .. image:: img/chain.jpg
-	   :height: 720px
+	   :height: 680px
 
 “A ſurvey or Table declaring the order of the cauſes of ſalvation and damnation according to Gods word,” in William Perkins, *The Golden Chain* (London, 1592).
 
@@ -125,7 +125,7 @@ Reformation theology and state surveillance
 :data-z: r700
 
 .. image:: img/wisc.jpg
-	   :height: 720px
+	   :height: 680px
 
 Wisconsin Department of Corrections, “Offender Life Cycle.”
 
@@ -186,13 +186,9 @@ Wisconsin Department of Corrections, “Offender Life Cycle.”
 
    (pause)
 
-   Together these two images suggest that predestination is a good way of thinking through problems today: does surveillance measure or cause? How is information translated into knowledge? How is knowledge translated into power? 
+   COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity, with a very similar structure.
 
-   ..
-      - Process or sequence?
-      - What kind of structure of Cause and effect?
-
-   - COMPAS is a decision tree in prospective view, PERKINS is a decision tree in eternity.
+   Together these two images suggest that predestination might be a good way of thinking through problems today: does surveillance measure or cause? How is information translated into knowledge? How is knowledge translated into power? Where are choices made, if any?
 
    (This visual example is about mass incarceration of black and brown people in the US, but I think the idea can be generalized to *national security surveillance states* and other kinds of surveillance.)
 
@@ -221,6 +217,8 @@ Chronology
 - Northern Rebellion
 
 .. note::
+
+   [run through timeline]
 
    In 1569, a large but short-lived rebellion by Catholic nobles became the first large-scale test of the Elizabethan Settlement. The comprimise had allowed Catholics to retain their old beliefs in exchange for a regime of fines and loss of privileges. Elizabeth famously made these policies “not liking to make windows into men’s hearts and secret thoughts.”
 
@@ -268,7 +266,7 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    *ytt asketh then (so plesing your highnes) an exacte booke, describeng every parte of your Reallme…… The which substancially deciphred, might appere from tyme to tyme, as a certayn monument satisfieng every dowtt… & if the remnant were throwly deciphred, it were a grett assuranc to the state. Again Religion shold be the more assured, & mani execrable sectes eschewed, which kindle men dangerowsly bothe against God & their Soveraigne.*
 
-   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADBLE.
+   I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADABLE.
 
 ----
 
