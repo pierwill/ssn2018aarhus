@@ -261,7 +261,7 @@ ytt asketh then (so plesing your highnes) an **exacte booke**, describeng every 
 
    I think this “exact book” can be (and would have been) understood as a shadow of the Book of Life. The Book of Life is a persistent metaphor for predestination in biblical and religious literature. God’s book contains the names of those predestined to eternal life. But crucially the Book of Life is UNREADABLE. So Herle suggests that the state approximate this unreachable omniscience, not to change the future, but to better serve God’s plan.
 
-   The technical means of making *exact books of every part of the realm* have only increased since the 16th century. Losing the theologically concepts that are an important part of the history of surveillance (omniscience, predestination, providence, free will,and grace), has not (I don’t think) helped us keep up. Instead our strange idea that we have control over our futures has allowed structures of power to dream of functional omniscience, unmoored from a vision of and faith in a more just future.
+   The technical means of making *exact books of every part of the realm* have only increased since the 16th century. Losing an understanding of the theologically concepts in the history of surveillance (omniscience, predestination, providence, free will, and grace), has not (I don’t think) helped us keep up. Instead our strange idea that we have control over our futures has allowed structures of power to dream secretly of functional omniscience, unmoored from a vision of and faith in a more just future.
 
 .. Local Variables:
 .. mode: rst
